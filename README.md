@@ -88,8 +88,4 @@ Quality      ESLint · Prettier · Jest · Sentry
 
 ## Contact
 
-いまは GitHub からどうぞ。メールは追って載せます。
-
-For now, reach me on GitHub. Email coming soon.
-
-**[github.com/hnkhjs](https://github.com/hnkhjs)**
+**[github.com/hnkhjs](https://github.com/hnkhjs)** · **[jshan.hnk@gmail.com](mailto:jshan.hnk@gmail.com)**
