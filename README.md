@@ -56,6 +56,15 @@ Most implementation stays private (client work). This page is about **what I shi
 
 Ongoing work on supplier/store ordering flows and the dashboards on top of them: master-data search, CSV import UX, order-history states, delivery calendars, and report tables that people can actually read.
 
+### Public sample — realtime chat
+
+公開している実装サンプルです。ログイン、オンライン一覧、Socket.IO での送受信、入退室のシステムメッセージまで一通りあります。
+
+A small public sample: name login, online users, Socket.IO messages, and join/leave system events.
+
+- Frontend: [chatfront](https://github.com/hnkhjs/chatfront) — React · MUI · Socket.IO
+- Backend: [chatback](https://github.com/hnkhjs/chatback) — Express · MongoDB · Socket.IO
+
 ---
 
 ## Stack
@@ -76,11 +85,9 @@ Quality      ESLint · Prettier · Jest · Sentry
 
 <div align="center">
 
-[![githan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnkhjs&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/hnkhjs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hnkhjs&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9)](https://github.com/hnkhjs)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hnkhjs&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="./assets/stats.svg" alt="GitHub stats" />
+<img src="./assets/langs.svg" alt="Top languages" />
+<img src="./assets/streak.svg" alt="Contribution streak" />
 
 </div>
 
